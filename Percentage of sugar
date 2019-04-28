@@ -1,0 +1,4 @@
+count = 4.1
+total = 100.0
+percentage_sugar = (count / total) * 100
+print (percentage_sugar)
