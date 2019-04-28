@@ -1,0 +1,5 @@
+passata = 4.1
+worcestershire_sauce = 18.8
+maple_syrup = 81.1
+total_ingredients = (passata + worcestershire_sauce + maple_syrup)
+print (total_ingredients)
